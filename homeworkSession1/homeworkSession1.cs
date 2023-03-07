@@ -1,7 +1,7 @@
 int a, b,c;
 Console.WriteLine("Give me a value for number \"a\": ");
 a = int.Parse(Console.ReadLine());    
-Console.WriteLine("Give me a value for number \"a\": ");
+Console.WriteLine("Give me a value for number \"b\": ");
 b = int.Parse(Console.ReadLine());
 
 
